@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m currently pursuing a Bachelor’s degree in Computer Science and Engineering.
+I completed my Bachelor’s degree in Computer Science and Engineering.
 
 
 ## 🌐 Socials:
