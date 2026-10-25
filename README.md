@@ -1,5 +1,7 @@
 # 💫 About Me:
-I completed my Bachelor’s degree in Computer Science and Engineering.
+🎓 Computer Science and Engineering graduate.
+💻 Currently learning Java and improving my problem-solving skills through HackerRank.
+🚀 Building projects to strengthen my programming skills and prepare for a software development career.
 
 
 ## 🌐 Socials:
